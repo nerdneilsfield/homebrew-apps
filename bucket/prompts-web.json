@@ -1,0 +1,22 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/prompts-web/releases/download/v0.2.1/prompts-web_0.2.1_windows_amd64.zip",
+            "bin": [
+                "prompts-web.exe"
+            ],
+            "hash": "7cf1eb7485d87877323f69a5a3bf09d7cdec3dbb390ffaba3bb04aab8a025487"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/prompts-web/releases/download/v0.2.1/prompts-web_0.2.1_windows_arm64.zip",
+            "bin": [
+                "prompts-web.exe"
+            ],
+            "hash": "e4621064c4cd46879430cb5b863f9398ba088605ca63c0bc8f78f5dcc91f908e"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/prompts-web",
+    "license": "MIT",
+    "description": "Self-hosted prompt library and optimization workbench"
+}
