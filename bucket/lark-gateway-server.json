@@ -1,0 +1,22 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/lark-cli-gateway/releases/download/v0.2.1/lark-gateway-server_0.2.1_windows_amd64.zip",
+            "bin": [
+                "lark-gateway-server_0.2.1_windows_amd64/lark-gateway-server.exe"
+            ],
+            "hash": "d08535aeb7e9d08cdf2de7f0a02a1b57ee6d8df09902e35f89501f5e257b17d5"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/lark-cli-gateway/releases/download/v0.2.1/lark-gateway-server_0.2.1_windows_arm64.zip",
+            "bin": [
+                "lark-gateway-server_0.2.1_windows_arm64/lark-gateway-server.exe"
+            ],
+            "hash": "3a0bf4eed314fcfa59e6c50e219ffe5f17c886193961b84870a96e2eba686853"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/lark-cli-gateway",
+    "license": "MIT",
+    "description": "Local HTTP gateway that queues and forwards messages to lark-cli"
+}
