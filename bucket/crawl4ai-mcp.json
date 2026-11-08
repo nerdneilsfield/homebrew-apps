@@ -1,0 +1,22 @@
+{
+    "version": "0.3.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/go-crawl4ai-mcp/releases/download/v0.3.1/go-crawl4ai-mcp_0.3.1_Windows_x86_64.zip",
+            "bin": [
+                "crawl4ai-mcp.exe"
+            ],
+            "hash": "104ed564cc31540f91a48d63b47feab4279fde0a428eeb67287917bb7c3f6194"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/go-crawl4ai-mcp/releases/download/v0.3.1/go-crawl4ai-mcp_0.3.1_Windows_aarch64.zip",
+            "bin": [
+                "crawl4ai-mcp.exe"
+            ],
+            "hash": "a44c45cd153bfae862927dacd6db71aca804cc677aa5b783d33f345e4b3a5ff9"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/go-crawl4ai-mcp",
+    "license": "MIT",
+    "description": "Stateless Streamable HTTP MCP server for Crawl4AI"
+}
