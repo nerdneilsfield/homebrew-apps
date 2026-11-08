@@ -1,0 +1,29 @@
+{
+    "version": "2026.11.8",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/nerdneilsfield/telegram-fal-bot/releases/download/v2026.11.8/telegram-fal-bot_2026.11.8_windows_386.zip",
+            "bin": [
+                "telegram-fal-bot.exe"
+            ],
+            "hash": "f89214f1249df3e05a892cc51a786b09a805ead1428a92ac9fc422842f9cd37c"
+        },
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/telegram-fal-bot/releases/download/v2026.11.8/telegram-fal-bot_2026.11.8_windows_amd64.zip",
+            "bin": [
+                "telegram-fal-bot.exe"
+            ],
+            "hash": "b9912d553553da897b38bf2704f56b81d1940e42d10eebd01eb01b796f3c2ec2"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/telegram-fal-bot/releases/download/v2026.11.8/telegram-fal-bot_2026.11.8_windows_arm64.zip",
+            "bin": [
+                "telegram-fal-bot.exe"
+            ],
+            "hash": "f85d4dc2dc69cc0f2ccc21fb8c536a16d5f235b4fc3ca633bd251b327b21e2b1"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/telegram-fal-bot",
+    "license": "MIT",
+    "description": "Telegram bot for fal.ai"
+}
