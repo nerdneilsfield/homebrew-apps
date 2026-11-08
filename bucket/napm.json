@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/newapi-multi-website-manager/releases/download/v0.1.2/newapi-multi-website-manager_0.1.2_windows_amd64.zip",
+            "bin": [
+                "napm.exe"
+            ],
+            "hash": "2efc515013798cb009d0c073787a625fd7aca28a96889bf45aac03df5c565637"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/newapi-multi-website-manager/releases/download/v0.1.2/newapi-multi-website-manager_0.1.2_windows_arm64.zip",
+            "bin": [
+                "napm.exe"
+            ],
+            "hash": "86ad8eab885749f59891df814ed5dbf7816260279b310a422e74191264594405"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/newapi-multi-website-manager",
+    "license": "MIT",
+    "description": "Manage multiple new-api sites from one web UI"
+}
