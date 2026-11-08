@@ -1,0 +1,29 @@
+{
+    "version": "0.2.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/nerdneilsfield/RSSHub-Gateway/releases/download/v0.2.3/RSSHub-Gateway_0.2.3_windows_386.zip",
+            "bin": [
+                "rsshub-gateway.exe"
+            ],
+            "hash": "7ed30ac8ec94269eb16855ed40e1bdbde011eaf5ba97f9b81a84a2b3228763f9"
+        },
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/RSSHub-Gateway/releases/download/v0.2.3/RSSHub-Gateway_0.2.3_windows_amd64.zip",
+            "bin": [
+                "rsshub-gateway.exe"
+            ],
+            "hash": "833e1b0a23ffd040b87de11ff438db3dfccaa1ddce6863c9db569f2777725756"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/RSSHub-Gateway/releases/download/v0.2.3/RSSHub-Gateway_0.2.3_windows_arm64.zip",
+            "bin": [
+                "rsshub-gateway.exe"
+            ],
+            "hash": "ec7e6ee8f1e5cfbc8b66bf89220425ae5dc32cde2d522b23ba49228170c247c7"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/RSSHub-Gateway",
+    "license": "MIT",
+    "description": "Gateway that keeps RSSHub and Upvote RSS feeds stable under load"
+}
