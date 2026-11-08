@@ -1,0 +1,22 @@
+{
+    "version": "0.1.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/telesend/releases/download/v0.1.3/telesend_0.1.3_windows_amd64.zip",
+            "bin": [
+                "telesend.exe"
+            ],
+            "hash": "11cf47ca8f2df88f11c6f51fb01e7dab6a653b103748c91e1ae9580dc00a9d15"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/telesend/releases/download/v0.1.3/telesend_0.1.3_windows_arm64.zip",
+            "bin": [
+                "telesend.exe"
+            ],
+            "hash": "edbfdc38de28ce40534aa418bf0568d5b6ec2bb424705a5afef0bea252832763"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/telesend",
+    "license": "MIT",
+    "description": "Send text, files, photos, videos, and voice messages to Telegram from the command line"
+}
