@@ -1,0 +1,22 @@
+{
+    "version": "0.0.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/simple-feishu-cli/releases/download/v0.0.4/feishu_0.0.4_windows_amd64.zip",
+            "bin": [
+                "feishu.exe"
+            ],
+            "hash": "a2ef00d602289fd9d5a806090190d14ce6780fff193c8ac89454b8b593560aa9"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/simple-feishu-cli/releases/download/v0.0.4/feishu_0.0.4_windows_arm64.zip",
+            "bin": [
+                "feishu.exe"
+            ],
+            "hash": "fa7d561ca856322945272606dda960cc447a3fc697c58910e4f046ee3274a559"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/simple-feishu-cli",
+    "license": "MIT",
+    "description": "Send files and messages to Feishu users or groups from the command line"
+}
