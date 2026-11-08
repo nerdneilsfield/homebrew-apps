@@ -1,0 +1,29 @@
+{
+    "version": "2026.11.8",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/nerdneilsfield/ghproxy-go/releases/download/v2026.11.8/ghproxy-go_2026.11.8_windows_386.zip",
+            "bin": [
+                "ghproxy-go.exe"
+            ],
+            "hash": "d1b141a46b86ae71bdede9daa3e9b7ae1920765f068f178d82d5d849ebca2e51"
+        },
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/ghproxy-go/releases/download/v2026.11.8/ghproxy-go_2026.11.8_windows_amd64.zip",
+            "bin": [
+                "ghproxy-go.exe"
+            ],
+            "hash": "c94b2b04d71611de0a9ba6433584a990523ffa865106cb7056e803ac3acbad6a"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/ghproxy-go/releases/download/v2026.11.8/ghproxy-go_2026.11.8_windows_arm64.zip",
+            "bin": [
+                "ghproxy-go.exe"
+            ],
+            "hash": "3f2cb356fc75b26a1c9ed339ee181b09719c198ddce8d4afda1e6c1dda33f5b4"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/ghproxy-go",
+    "license": "BSD-3-Clause",
+    "description": "Go implementation of ghproxy"
+}
