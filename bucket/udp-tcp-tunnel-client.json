@@ -1,0 +1,22 @@
+{
+    "version": "0.3.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/udp-tcp-tunnel/releases/download/v0.3.1/udp-tcp-tunnel-client_0.3.1_windows_amd64.zip",
+            "bin": [
+                "udp-tcp-tunnel-client.exe"
+            ],
+            "hash": "42ac7877f8a01749a70caf1672458d95144c97ea029325f559221ae7671d8aca"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/udp-tcp-tunnel/releases/download/v0.3.1/udp-tcp-tunnel-client_0.3.1_windows_arm64.zip",
+            "bin": [
+                "udp-tcp-tunnel-client.exe"
+            ],
+            "hash": "75c274e20f1984386f3d2917a2bda18519e9ec3c587660552a1a7c36c4007262"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/udp-tcp-tunnel",
+    "license": "MIT",
+    "description": "Multi-channel UDP over TCP tunnel client with transparent packet forwarding"
+}
