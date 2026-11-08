@@ -1,0 +1,22 @@
+{
+    "version": "0.2.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/agentcfg/releases/download/v0.2.2/agentcfg_0.2.2_windows_amd64.zip",
+            "bin": [
+                "agentcfg.exe"
+            ],
+            "hash": "87e30829543c50e94117ebf1b86f5670678d795ace7e93ecf165c0a06531347e"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/agentcfg/releases/download/v0.2.2/agentcfg_0.2.2_windows_arm64.zip",
+            "bin": [
+                "agentcfg.exe"
+            ],
+            "hash": "b602586741f3f1d75c06221363c1d9eb53d320ad3792d501d87c67e4a68d183e"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/agentcfg",
+    "license": "MIT",
+    "description": "Generate Codex and OpenCode configs from one provider and MCP source"
+}
