@@ -1,0 +1,29 @@
+{
+    "version": "0.0.4",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/nerdneilsfield/llm-to-anthropic/releases/download/v0.0.4/llm-to-anthropic_0.0.4_windows_386.zip",
+            "bin": [
+                "llm-to-anthropic.exe"
+            ],
+            "hash": "3b9f3bc8158e7f165e1a1e9eeddf5c80118187ecde9a0db9ff1a4c8f5d6c5489"
+        },
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/llm-to-anthropic/releases/download/v0.0.4/llm-to-anthropic_0.0.4_windows_amd64.zip",
+            "bin": [
+                "llm-to-anthropic.exe"
+            ],
+            "hash": "59a236eb102ca7b4e4eefc0bd19575a7b6a1041773fa1bfc752eff297256fe0b"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/llm-to-anthropic/releases/download/v0.0.4/llm-to-anthropic_0.0.4_windows_arm64.zip",
+            "bin": [
+                "llm-to-anthropic.exe"
+            ],
+            "hash": "9c60e108e9cd6ea047d4cadb09034c86a780e20452e005fe9343d78a364719d5"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/llm-to-anthropic",
+    "license": "MIT",
+    "description": "Convert an LLM endpoint to the Anthropic API"
+}
