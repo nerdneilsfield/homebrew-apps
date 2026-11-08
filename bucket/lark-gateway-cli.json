@@ -1,0 +1,22 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/lark-cli-gateway/releases/download/v0.2.1/lark-gateway-cli_0.2.1_windows_amd64.zip",
+            "bin": [
+                "lark-gateway-cli_0.2.1_windows_amd64/lark-gateway-cli.exe"
+            ],
+            "hash": "8741e0076c5d2a73f0da2abcf9e6ce206014545208ab97ee6ea19540c7f4ab81"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/lark-cli-gateway/releases/download/v0.2.1/lark-gateway-cli_0.2.1_windows_arm64.zip",
+            "bin": [
+                "lark-gateway-cli_0.2.1_windows_arm64/lark-gateway-cli.exe"
+            ],
+            "hash": "bf3c88a49ed07045a1fb11987d71e66490df1ea1a752d8f7a90569df1b5880cd"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/lark-cli-gateway",
+    "license": "MIT",
+    "description": "Command-line client for lark-gateway-server"
+}
