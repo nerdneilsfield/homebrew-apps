@@ -1,0 +1,29 @@
+{
+    "version": "2026.11.8",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/nerdneilsfield/shlogin/releases/download/v2026.11.8/shlogin_2026.11.8_windows_386.zip",
+            "bin": [
+                "shlogin.exe"
+            ],
+            "hash": "edac316ddcf0f497ded3d1220348d94adaf754217c02af5b4d217316457be250"
+        },
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/shlogin/releases/download/v2026.11.8/shlogin_2026.11.8_windows_amd64.zip",
+            "bin": [
+                "shlogin.exe"
+            ],
+            "hash": "5bbf3e1c47571656e63142732c249c7aa6e82fe7fd79a752c2be5b29cb090bb6"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/shlogin/releases/download/v2026.11.8/shlogin_2026.11.8_windows_arm64.zip",
+            "bin": [
+                "shlogin.exe"
+            ],
+            "hash": "05b2331c93c44758ecf4d7e4a70200a17bb5ebb77248f9c8921fd55984e93f90"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/shlogin",
+    "license": "MIT",
+    "description": "Library and CLI for shlogin"
+}
