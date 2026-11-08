@@ -1,0 +1,29 @@
+{
+    "version": "0.2.6",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/nerdneilsfield/telenotion-bot/releases/download/v0.2.6/telenotion-bot_0.2.6_windows_386.zip",
+            "bin": [
+                "telenotion-bot.exe"
+            ],
+            "hash": "f0bdf380c10811024cc69992d9228f97d2d43ed294a164b92e76ef9e74c2aa1e"
+        },
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/telenotion-bot/releases/download/v0.2.6/telenotion-bot_0.2.6_windows_amd64.zip",
+            "bin": [
+                "telenotion-bot.exe"
+            ],
+            "hash": "1bd62ac6c2fd9db2a3c9f51db92e96c5ad506107f1bb8279b01579755ba50a51"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/telenotion-bot/releases/download/v0.2.6/telenotion-bot_0.2.6_windows_arm64.zip",
+            "bin": [
+                "telenotion-bot.exe"
+            ],
+            "hash": "0a99d5b9030f79e0d8981923552abe8ea1b1b7c9b0aa32945562383dc24b831d"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/telenotion-bot",
+    "license": "MIT",
+    "description": "Telegram and Discord bot that captures messages into a Notion database"
+}
