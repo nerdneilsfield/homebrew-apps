@@ -1,0 +1,29 @@
+{
+    "version": "2026.11.8",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/nerdneilsfield/simple_api_gateway/releases/download/v2026.11.8/simple_api_gateway_2026.11.8_windows_386.zip",
+            "bin": [
+                "simple_api_gateway.exe"
+            ],
+            "hash": "4ae1c2e0c44c0ddb0e5a16826408d13ff81b486b165e83484cef3cc81ca37ea3"
+        },
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/simple_api_gateway/releases/download/v2026.11.8/simple_api_gateway_2026.11.8_windows_amd64.zip",
+            "bin": [
+                "simple_api_gateway.exe"
+            ],
+            "hash": "41c83599b6246db0589a1daab19d9652aaa474792350f379695b203836d8bd50"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/simple_api_gateway/releases/download/v2026.11.8/simple_api_gateway_2026.11.8_windows_arm64.zip",
+            "bin": [
+                "simple_api_gateway.exe"
+            ],
+            "hash": "d35bdbc726a774e1ba54da0f262f6c94303b29e5d7488fb5ab48ad84355efddd"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/simple_api_gateway",
+    "license": "BSD-3-Clause",
+    "description": "A very simple API gateway for Go"
+}
