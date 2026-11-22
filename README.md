@@ -24,6 +24,7 @@ scoop install nerdneilsfield/<包名>
 | 包名 | 简介 | 平台 |
 | --- | --- | --- |
 | [agentcfg](https://github.com/nerdneilsfield/agentcfg) | 由一份 provider 和 MCP 配置生成 Codex、OpenCode 等工具的配置 | macOS / Linux / Windows |
+| [aumbry](https://github.com/nerdneilsfield/Aumbry) | 私有、可检索的 AI agent 研究报告中心（含 aumbry 和 aumbry-server 两个命令） | macOS / Linux / Windows |
 | [beav](https://github.com/nerdneilsfield/Beav) | 安全、轻量的 Linux 缓存清理工具 | Linux |
 | [crawl4ai-mcp](https://github.com/nerdneilsfield/go-crawl4ai-mcp) | 把自托管的 Crawl4AI 暴露为 Streamable HTTP MCP 服务 | macOS / Linux / Windows |
 | [feishu](https://github.com/nerdneilsfield/simple-feishu-cli) | 在命令行向飞书用户或群发送文件和消息 | macOS / Linux / Windows |
