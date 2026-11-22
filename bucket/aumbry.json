@@ -1,0 +1,24 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nerdneilsfield/Aumbry/releases/download/v0.1.1/Aumbry_0.1.1_windows_amd64.zip",
+            "bin": [
+                "aumbry.exe",
+                "aumbry-server.exe"
+            ],
+            "hash": "3471c166568890ac54652a6049d48c32cb2d082daf4573977591fc6e7912f40c"
+        },
+        "arm64": {
+            "url": "https://github.com/nerdneilsfield/Aumbry/releases/download/v0.1.1/Aumbry_0.1.1_windows_arm64.zip",
+            "bin": [
+                "aumbry.exe",
+                "aumbry-server.exe"
+            ],
+            "hash": "1a4d630dd1f3b9b87def80e66effb235518a0411a3474e9e1d9da6cc469f045f"
+        }
+    },
+    "homepage": "https://github.com/nerdneilsfield/Aumbry",
+    "license": "MIT",
+    "description": "Private, searchable hub for AI-agent research reports"
+}
