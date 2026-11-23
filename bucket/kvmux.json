@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "description": "Low-latency KVM viewer for USB capture and CH9329 control",
+  "homepage": "https://github.com/nerdneilsfield/KVMux",
+  "license": "MIT,GPL-2.0-or-later",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/nerdneilsfield/KVMux/releases/download/v0.1.0/kvmux-v0.1.0-windows-x64.zip",
+      "hash": "e6b90d1bce9d8ff58e5cfa659a0c3049c9091161001c6352a0d30e385ce8c258"
+    }
+  },
+  "bin": ["bin\\kvmux.exe", "bin\\kvmux-relay.exe"],
+  "shortcuts": [["bin\\kvmux.exe", "KVMux"]]
+}
