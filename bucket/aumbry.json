@@ -1,21 +1,21 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nerdneilsfield/Aumbry/releases/download/v0.1.3/Aumbry_0.1.3_windows_amd64.zip",
+            "url": "https://github.com/nerdneilsfield/Aumbry/releases/download/v0.1.4/Aumbry_0.1.4_windows_amd64.zip",
             "bin": [
                 "aumbry.exe",
                 "aumbry-server.exe"
             ],
-            "hash": "ce03865e8e237f7cfe12b1d1dbeaf5f4e888be5a03070d42bd51093cfe2741f3"
+            "hash": "7ef4d9405006c2cf8283f0ed869428f7183db9f4a27202e3ed114a28f4b677c4"
         },
         "arm64": {
-            "url": "https://github.com/nerdneilsfield/Aumbry/releases/download/v0.1.3/Aumbry_0.1.3_windows_arm64.zip",
+            "url": "https://github.com/nerdneilsfield/Aumbry/releases/download/v0.1.4/Aumbry_0.1.4_windows_arm64.zip",
             "bin": [
                 "aumbry.exe",
                 "aumbry-server.exe"
             ],
-            "hash": "0565c300dab015bd2dce6230a1aba5fc5e7e52266a233813e512706fb989f3b4"
+            "hash": "bd4ec7f7a005aa628a43cd77a0e7bc55f35fe616f29c9dd57e323da356a3b283"
         }
     },
     "homepage": "https://github.com/nerdneilsfield/Aumbry",
